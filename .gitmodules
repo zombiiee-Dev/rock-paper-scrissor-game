@@ -1,0 +1,3 @@
+[submodule "rock-paper-scrissor-game"]
+	path = rock-paper-scrissor-game
+	url = https://github.com/zombiiee-Dev/rock-paper-scrissor-game/tree/main
